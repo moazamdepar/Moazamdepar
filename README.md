@@ -37,7 +37,6 @@
 ## 📈 GitHub Stats
 
 ![Madni's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazamdepar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazamdepar&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
 
